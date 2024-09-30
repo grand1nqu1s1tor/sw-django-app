@@ -10,7 +10,7 @@ The code is hosted in the following GitHub repository:
 ## Live Application
 
 The application is deployed on AWS Elastic Beanstalk and is available at:
-([http://sw-app-env.eba-ntap5ip2.us-east-1.elasticbeanstalk.com/polls/](http://sw-app-env.eba-ntap5ip2.us-east-1.elasticbeanstalk.com/polls/))
+([http://sw-app-env.eba-ntap5ip2.us-east-1.elasticbeanstalk.com/polls/](http://django-app-env.eba-ntap5ip2.us-east-1.elasticbeanstalk.com/polls/)))
 
 
 ### Prerequisites
