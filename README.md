@@ -10,8 +10,7 @@ The code is hosted in the following GitHub repository:
 ## Live Application
 
 The application is deployed on AWS Elastic Beanstalk and is available at:
-([http://sw-app-env.eba-ntap5ip2.us-east-1.elasticbeanstalk.com/polls/](http://django-app-env.eba-ntap5ip2.us-east-1.elasticbeanstalk.com/polls/)))
-
+[django-app-env.eba-kugfwhyi.us-east-1.elasticbeanstalk.com](django-app-env.eba-kugfwhyi.us-east-1.elasticbeanstalk.com)
 
 ### Prerequisites
 
@@ -25,5 +24,5 @@ The application is deployed on AWS Elastic Beanstalk and is available at:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/swe1-app.git
-   cd swe1-app
+   git clone https://github.com/grand1nqu1s1tor/sw-django-app.git
+   cd sw-django-app
