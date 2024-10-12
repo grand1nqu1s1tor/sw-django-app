@@ -1,4 +1,0 @@
-Retrieving logs...
-Logs were saved to /Users/dipeshparwani/Downloads/sw-django-app/djangosite/.elasticbeanstalk/logs/240929_143840
-Logs were saved to /Users/dipeshparwani/Downloads/sw-django-app/djangosite/.elasticbeanstalk/logs/240929_143840
-Updated symlink at /Users/dipeshparwani/Downloads/sw-django-app/djangosite/.elasticbeanstalk/logs/latest
