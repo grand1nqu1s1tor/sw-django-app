@@ -3,4 +3,5 @@ pytz==2024.2
 sqlparse==0.5.1
 black==23.3.0
 flake8==6.1.0
-coverage==7.2.5
+coverage==7.6.2
+coveralls==4.0.1

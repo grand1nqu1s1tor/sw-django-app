@@ -29,6 +29,7 @@ deploy:
   app: $EB_APP_NAME
   env: $EB_ENV_NAME
   bucket_name: "elasticbeanstalk-us-east-1-891377008581"
+  skip_cleanup: true
   on:
     branch: main
 
