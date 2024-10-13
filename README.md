@@ -1,6 +1,11 @@
 # Polls Application
 
-This repository contains a simple Django application based on Django's official tutorial. It is a basic polls application where users can view polls and vote in them.
+This repository contains a simple Django application based on Django's official tutorial.
+
+## Build Status and Coverage
+
+[![Build Status](https://travis-ci.com/grand1nqu1s1tor/sw-django-app.svg?branch=main)](https://travis-ci.com/grand1nqu1s1tor/sw-django-app)
+[![Coverage Status](https://coveralls.io/repos/github/grand1nqu1s1tor/sw-django-app/badge.svg?branch=main)](https://coveralls.io/github/grand1nqu1s1tor/sw-django-app?branch=main)
 
 ## Repository Name
 
