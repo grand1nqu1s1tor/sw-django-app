@@ -10,7 +10,7 @@ install:
 env:
   global:
     - AWS_DEFAULT_REGION="us-east-1"
-    - EB_APP_NAME="sw-django-app"
+    - EB_APP_NAME="djangosite"
     - EB_ENV_NAME="django-app-env"
 
 before_script:
