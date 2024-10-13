@@ -20,7 +20,6 @@ before_script:
 script:
   - coverage run --source='.' manage.py test
   - coverage report
-  - coveralls
 
 deploy:
   provider: elasticbeanstalk
@@ -34,4 +33,4 @@ deploy:
     branch: main
 
 after_success:
-  - coveralls
+  - coveralls --service=travis-ci
