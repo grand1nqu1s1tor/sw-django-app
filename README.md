@@ -5,7 +5,9 @@ This repository contains a simple Django application based on Django's official 
 ## Build Status and Coverage
 
 [![Build Status](https://app.travis-ci.com/grand1nqu1s1tor/sw-django-app.svg?token=czbqszbnpweJWzXsdSdv&branch=main)](https://app.travis-ci.com/grand1nqu1s1tor/sw-django-app)
-[![Coverage Status](https://coveralls.io/repos/github/grand1nqu1s1tor/sw-django-app/badge.svg)](https://coveralls.io/github/grand1nqu1s1tor/sw-django-app)
+[![Coverage Status](https://coveralls.io/repos/github/grand1nqu1s1tor/sw-django-app/badge.png?branch=main)](https://coveralls.io/github/grand1nqu1s1tor/sw-django-app/branch=main)
+
+
 ## Repository Name
 
 The code is hosted in the following GitHub repository:
@@ -14,7 +16,7 @@ The code is hosted in the following GitHub repository:
 ## Live Application
 
 The application is deployed on AWS Elastic Beanstalk and is available at:
-[django-app-env.eba-kugfwhyi.us-east-1.elasticbeanstalk.com](django-app-env.eba-kugfwhyi.us-east-1.elasticbeanstalk.com)
+[http://django-app-env.eba-xkpcinzn.us-east-1.elasticbeanstalk.com/](http://django-app-env.eba-xkpcinzn.us-east-1.elasticbeanstalk.com/)
 
 ### Prerequisites
 
